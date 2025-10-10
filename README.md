@@ -7,12 +7,6 @@
 
 ---
 
-### 🔭 Current Projects
-- **Netflix Clone**: Simplified Netflix version with responsive layout.
-- **Todo App**: Minimalist to-do app ensuring responsiveness across devices.
-- **URL Shortening Service**: Python-based URL shortener using Cutt.ly API.
-- **Alarm Clock**: GUI-based alarm clock built with Python’s Tkinter.
-
 ### 🛠️ Skills
 - **Programming Languages**: Python, C++, Java, TypeScript, HTML5, CSS3  
 - **Frameworks & Libraries**: Tkinter, Requests  
