@@ -1,7 +1,7 @@
 # 🏄‍♂️ Zishan Alam Khan
 
 🎓 **B.Tech in Computer Science - Artificial Intelligence** | Bhilai Institute of Technology 
-💡 Passionate about Web Development, AI, and Software Engineering  
+💡 Passionate about Generative AI, neural networks, and Software Engineering  
 🚀 Currently exploring AI applications and web-based technologies  
 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/imzishan/) | [Email](mailto:zishanalam8167@gmail.com)
 
