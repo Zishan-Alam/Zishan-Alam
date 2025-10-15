@@ -108,8 +108,22 @@ _PCM with Computer Science_
 
 ## 📚 Coursework
 
-**Undergraduate Subjects:**  
-📘 Data Structures & Algorithms · Artificial Intelligence · Machine Learning · Python with Data Analysis · Deep Learning · Operating Systems · Database Management System · Computer Networks · Employment Communication
+**💻 Programming & Algorithms:**  
+- Data Structures & Algorithms  
+- Python with Data Analysis  
+
+**🧠 AI & Machine Learning:**  
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+
+**🖥️ Systems & Networking:**  
+- Operating Systems  
+- Computer Networks  
+- Database Management System  
+
+**📖 Professional Skills:**  
+- Employment Communication
 
 ---
 
